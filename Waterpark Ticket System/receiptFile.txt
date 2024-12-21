@@ -1,0 +1,16 @@
+ ------------------------------------------------------------
+ 		 Perthlis Waterpark System 
+ ------------------------------------------------------------
+ Customer name : Amalina
+ ------------------------------------------------------------
+ Category of age 	Quantity 	Price 
+ Kids 		2		130
+ Adults 		1		120
+ Senior citizens 	1		30
+ ------------------------------------------------------------
+ Total price tickets           RM 280
+ Total add on                  RM 20
+ Discount                      RM 0
+ Subtotal                      RM 300
+ Tax 6%                        RM 18
+ Overall total price           RM 318
